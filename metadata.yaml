@@ -1,0 +1,31 @@
+_repo: The-quest-for-the-rose-of-Sharon_69112
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Burton Egbert
+    alias: Stevenson, Burton E.
+    birthdate: 1872
+    deathdate: 1962
+    gutenberg_agent_id: '980'
+    url: http://www.gutenberg.org/2009/agents/980
+    wikipedia: https://en.wikipedia.org/wiki/Burton_Egbert_Stevenson
+description: ''
+gutenberg_issued: '2022-10-08'
+identifiers:
+  gutenberg: '69112'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn5r7a&view=1up&seq=16&skin=2021
+pgterms:marc905: 20211027104253stevenson
+pgterms:marc906: '1909'
+pgterms:marc907: us
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was made using scans of public domain works put online by Harvard University
+  Library's Open Collections Program.)
+publication_note: United States :L. C. Page & Company,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The quest for the rose of Sharon
+url: http://www.gutenberg.org/ebooks/69112
